@@ -13,10 +13,11 @@
 
 **Задача — построить алгоритм, который сможет определять опытность игрока по статистике из одного матча.**
 ## About the files
-**straming/**  
-  &emsp; &emsp; `final_main.ipynb`: Main solution's notebook
-  &emsp; &emsp;  `JSON_export.ipynb`: Features export scripts
-  &emsp; &emsp;  `Academy2019_Final.ipynb`: Features description
+  `final_main.ipynb`: Main solution's notebook
+  <br>
+  `JSON_export.ipynb`: Features export scripts
+  <br>
+  `Academy2019_Final.ipynb`: Features description
   
 
 
