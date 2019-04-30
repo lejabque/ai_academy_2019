@@ -12,12 +12,12 @@
 Повышая игровые навыки, игроки повышают свой рейтинг и получают медали опыта. Эксперты по игре Dota 2 утверждают, что легко могут отличить матч новичка от игры опытного игрока.
 
 **Задача — построить алгоритм, который сможет определять опытность игрока по статистике из одного матча.**
-## About the files
-  `final_main.ipynb`: Main solution's notebook
+## Файлы
+  `final_main.ipynb`: Главный notebook с решением
   <br>
-  `JSON_export.ipynb`: Features export scripts
+  `JSON_export.ipynb`: Скрипты для экспорта признаков из JSON-логов
   <br>
-  `Academy2019_Final.ipynb`: Features description
+  `Academy2019_Final.ipynb`: Описание признаков и примеры от организаторов
   
 
 
